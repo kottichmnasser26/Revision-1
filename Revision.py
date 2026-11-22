@@ -13,3 +13,7 @@ def mediane(notes):
     n=len(tri)
     return tri[n//2]
 print("mediane = ",mediane(notes))
+def sommenote(notes):
+    return sum(notes)
+print(sommenote(notes))
+
