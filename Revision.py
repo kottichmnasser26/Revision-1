@@ -16,4 +16,5 @@ print("mediane = ",mediane(notes))
 def sommenote(notes):
     return sum(notes)
 print(sommenote(notes))
+print("finished")
 
